@@ -1,0 +1,17 @@
+{
+  "qualification": ["Master in computer science, mathematics, physics or a comparable qualification with a focus on Machine Learning / AI",
+    "Three years of experience in implementing Machine Learning / AI models, including the use of OpenAI technologies",
+    "In-depth expertise in the area of current Machine Learning / AI methods, especially Large Language Models",
+    "Comprehensive knowledge of relevant programming languages, including Python",
+    "Experience with cloud computing platforms, preferably Azure",
+    "Knowledge of natural language processing and/or computer vision",
+    "Strong analytical skills and the ability to solve complex problems",
+    "Excellent written and verbal communication skills in English and preferably basic knowledge in German"],
+  "tasks": [
+    "Development and implementation of Machine Learning / Artificial Intelligence models for applications, eg in the area of Natural Language Processing or Computer Vision, with a focus on OpenAI technologies",
+    "Close collaboration with other data scientists, subject-matter experts and external service providers",
+    "Use case-based evaluation and consulting on the use of analytical methods and approaches (especially OpenAI technologies) to improve our processes and services",
+    "Supporting business units as an internal development partner, from ideation phase to implementation"
+  ]
+}
+
