@@ -102,7 +102,7 @@ if __name__ == '__main__':
 
     st.set_page_config(page_title="OpenAIInterviewBot")
     st.title("Interview Bot")
-
+    st.subheader("Try to answer with more context. If you want to switch to new question ask -'next question', if you want to end the interview ask -'end the interview'")
     questions = get_questions()
 
     # Initialize session state variables
